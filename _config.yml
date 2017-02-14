@@ -4,7 +4,7 @@ description: "The Official Blog of Ads Boomerang"
 
 # For example, my configuration is this:
 # url: https://blog.adsboomerang.com
-# enforce_ssl: blog.adsboomerang.com
+enforce_ssl: blog.adsboomerang.com
 
 author:
   name: "Ads Boomerang"
@@ -12,7 +12,7 @@ author:
   url: "https://adsboomerang.com"
 
 # Build settings
-baseurl: https://blog.adsboomerang.com # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: https:///blog.adsboomerang.com # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
